@@ -13,3 +13,5 @@ mas se voce for só usar proxies free, não sei se voce vai se contentar com iss
 bom, o script é meio merda pelos fatos ditos acima, mas mesmo assim resolvi colocar aqui pra daqui um tempo eu olhar pra isso e pensar: "caralho, meus scripts antigos eram muito merda."
 
 é isso.
+
+formato das contas que são criadas: oauth:s9fhja8s:username:sf9jasf:user_id:2598525:client_id:824hy8252525
