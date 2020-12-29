@@ -1,4 +1,5 @@
 # twitch_acc_creator
+# modo de uso: py acc_creator.py proxies.txt 2captcha_api_key
 criador de contas pra twitch, que checa as proxies antes e usa a api do 2captcha.
 
 é basicamente um script que cria conta pra twitch. cria um nick aleatorio, senha, data de nascimento, etc.
